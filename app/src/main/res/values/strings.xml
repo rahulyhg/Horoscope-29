@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Horoscope</string>
+    <string name="text_tab_header">Title</string>
+    <string name="title_aries">Aries</string>
+    <string name="title_taurus">Taurus</string>
+    <string name="title_gemini">Gemini</string>
+    <string name="title_leo">Leo</string>
+    <string name="title_virgo">Virgo</string>
+    <string name="title_libra">Libra</string>
+    <string name="title_scorpio">Scorpio</string>
+    <string name="title_sagittarius">Sagittarius</string>
+    <string name="title_capricorn">Capricorn</string>
+    <string name="title_aquarius">Aquarius</string>
+    <string name="title_pisces">Pisces</string>
+    <string name="title_cancer">Cancer</string>
+    <string name="header_title">Select Sun Sign</string>
+</resources>

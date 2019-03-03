@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_aries"
+            android:icon="@drawable/ic_aries"
+            android:title="@string/title_aries" />
+        <item
+            android:id="@+id/nav_taurus"
+            android:icon="@drawable/ic_taurus"
+            android:title="@string/title_taurus"/>
+        <item
+            android:id="@+id/nav_gemini"
+            android:icon="@drawable/ic_gemini"
+            android:title="@string/title_gemini" />
+        <item
+            android:id="@+id/nav_cancer"
+            android:icon="@drawable/ic_cancer"
+            android:title="@string/title_cancer" />
+        <item
+            android:id="@+id/nav_leo"
+            android:icon="@drawable/ic_leo"
+            android:title="@string/title_leo" />
+        <item
+            android:id="@+id/nav_virgo"
+            android:icon="@drawable/ic_virgo"
+            android:title="@string/title_virgo" />
+        <item
+            android:id="@+id/nav_libra"
+            android:icon="@drawable/ic_libra"
+            android:title="@string/title_libra" />
+        <item
+            android:id="@+id/nav_scorpio"
+            android:icon="@drawable/ic_scorpio"
+            android:title="@string/title_scorpio" />
+        <item
+            android:id="@+id/nav_sagittarius"
+            android:icon="@drawable/ic_sagittarius"
+            android:title="@string/title_sagittarius" />
+        <item
+            android:id="@+id/nav_capricorn"
+            android:icon="@drawable/ic_capricorn"
+            android:title="@string/title_capricorn" />
+        <item
+            android:id="@+id/nav_aquarius"
+            android:icon="@drawable/ic_aquarius"
+            android:title="@string/title_aquarius" />
+        <item
+            android:id="@+id/nav_pisces"
+            android:icon="@drawable/ic_pisces"
+            android:title="@string/title_pisces" />
+    </group>
+</menu>
